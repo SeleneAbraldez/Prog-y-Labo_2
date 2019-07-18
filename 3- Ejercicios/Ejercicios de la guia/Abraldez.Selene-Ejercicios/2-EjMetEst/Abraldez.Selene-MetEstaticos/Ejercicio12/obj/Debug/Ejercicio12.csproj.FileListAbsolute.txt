@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.pdb
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\bin\Debug\Ejercicio12.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\Ejercicio12\obj\Debug\Ejercicio12.pdb

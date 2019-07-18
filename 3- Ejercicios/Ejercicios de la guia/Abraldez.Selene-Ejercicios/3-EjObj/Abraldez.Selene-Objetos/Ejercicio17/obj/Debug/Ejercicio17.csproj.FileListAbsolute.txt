@@ -1,0 +1,7 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\bin\Debug\Ejercicio17.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\bin\Debug\Ejercicio17.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\bin\Debug\Ejercicio17.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\obj\Debug\Ejercicio17.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\obj\Debug\Ejercicio17.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\obj\Debug\Ejercicio17.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\3-EjObj\Abraldez.Selene-Objetos\Ejercicio17\obj\Debug\Ejercicio17.pdb

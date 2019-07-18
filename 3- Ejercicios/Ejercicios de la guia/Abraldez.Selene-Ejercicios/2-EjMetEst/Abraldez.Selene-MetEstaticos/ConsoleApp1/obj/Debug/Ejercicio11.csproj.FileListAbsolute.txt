@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\Ejercicio11.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\Ejercicio11.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\2-EjMetEst\Abraldez.Selene-MetEstaticos\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

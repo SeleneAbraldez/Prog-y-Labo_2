@@ -1,0 +1,7 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\bin\Debug\Ejercicio19.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\bin\Debug\Ejercicio19.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\bin\Debug\Ejercicio19.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\obj\Debug\Ejercicio19.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\obj\Debug\Ejercicio19.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\obj\Debug\Ejercicio19.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Ejercicios\Abraldez.Selene-Ejercicios\4-EjSobrec\Abraldez.Selene-EjSobrecarga\Ejercicio19\obj\Debug\Ejercicio19.pdb

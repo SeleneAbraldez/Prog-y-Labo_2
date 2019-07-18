@@ -1,0 +1,7 @@
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\bin\Debug\Ejercicio02.exe.config
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\bin\Debug\Ejercicio02.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\bin\Debug\Ejercicio02.pdb
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\obj\Debug\Ejercicio02.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\obj\Debug\Ejercicio02.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\obj\Debug\Ejercicio02.exe
+E:\Segundo cuatri\Prog y Labo\Ejercicios\Abraldez.Selene-Ejercicios\Ejercicio02\obj\Debug\Ejercicio02.pdb
