@@ -1,0 +1,30 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.FrmPaleta.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.frmTempera.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.Properties.Resources.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.GenerateResource.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Tempera.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Tempera.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Clase 06_classlibrary.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.exe.config
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\WindowsForm.PaletaYTemperas.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Clase 06_classlibrary.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Tempera.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\bin\Debug\Tempera.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.frmTempera.resources
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.frmPaleta.resources
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.Properties.Resources.resources
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.GenerateResource.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.csproj.CopyComplete
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\WindowsForm.PaletaYTemperas\obj\Debug\WindowsForm.PaletaYTemperas.pdb

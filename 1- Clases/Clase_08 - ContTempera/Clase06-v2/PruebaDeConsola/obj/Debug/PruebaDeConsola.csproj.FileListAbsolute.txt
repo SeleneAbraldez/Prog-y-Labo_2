@@ -1,0 +1,20 @@
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.exe.config
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\bin\Debug\Clase06.dll
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\bin\Debug\Clase06.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csproj.CopyComplete
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.pdb
+E:\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.exe.config
+E:\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.exe
+E:\Clase06\PruebaDeConsola\bin\Debug\PruebaDeConsola.pdb
+E:\Clase06\PruebaDeConsola\bin\Debug\Clase06.dll
+E:\Clase06\PruebaDeConsola\bin\Debug\Clase06.pdb
+E:\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csprojAssemblyReference.cache
+E:\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csproj.CoreCompileInputs.cache
+E:\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.csproj.CopyComplete
+E:\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.exe
+E:\Clase06\PruebaDeConsola\obj\Debug\PruebaDeConsola.pdb

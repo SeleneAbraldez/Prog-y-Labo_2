@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_10.5, 09- Lavadero\\AbraldezSelene.2A - Lavadero\\Vehiculos_test\\Vehiculos_test.csproj": {}
+  },
+  "projects": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_10.5, 09- Lavadero\\AbraldezSelene.2A - Lavadero\\Vehiculos_test\\Vehiculos_test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_10.5, 09- Lavadero\\AbraldezSelene.2A - Lavadero\\Vehiculos_test\\Vehiculos_test.csproj",
+        "projectName": "Vehiculos_test",
+        "projectPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_10.5, 09- Lavadero\\AbraldezSelene.2A - Lavadero\\Vehiculos_test\\Vehiculos_test.csproj",
+        "packagesPath": "C:\\Users\\selene\\.nuget\\packages\\",
+        "outputPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_10.5, 09- Lavadero\\AbraldezSelene.2A - Lavadero\\Vehiculos_test\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selene\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

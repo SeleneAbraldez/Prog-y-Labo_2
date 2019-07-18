@@ -1,0 +1,18 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\bin\Debug\netstandard2.0\Vehiculos.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard2.0\Vehiculos.pdb

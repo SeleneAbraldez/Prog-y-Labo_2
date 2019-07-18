@@ -1,0 +1,4 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard1.6\Vehiculos.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard1.6\Vehiculos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard1.6\Vehiculos.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculo\obj\Debug\netstandard1.6\Vehiculos.AssemblyInfo.cs

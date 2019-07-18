@@ -1,0 +1,28 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.runtimeconfig.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.runtimeconfig.dev.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.runtimeconfig.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.runtimeconfig.dev.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos_test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\bin\Debug\netcoreapp2.0\Vehiculos.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_09\AbraldezSelene.2A - Lavadero\Vehiculos_test\obj\Debug\netcoreapp2.0\Vehiculos_test.pdb

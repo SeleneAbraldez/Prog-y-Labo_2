@@ -1,0 +1,20 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Tempera.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Tempera.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-06 -\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Clase_06.Test.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Tempera.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\bin\Debug\Tempera.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06 - Arrays\Abraldez.Selene-Clase06\Clase_06.Test\obj\Debug\Clase_06.Test.pdb

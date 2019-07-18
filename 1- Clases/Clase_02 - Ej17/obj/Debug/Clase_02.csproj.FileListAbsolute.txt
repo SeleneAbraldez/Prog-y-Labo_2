@@ -1,0 +1,14 @@
+D:\VisualStudio\Abraldez.Selene\Clase_02\bin\Debug\Clase_02.exe.config
+D:\VisualStudio\Abraldez.Selene\Clase_02\bin\Debug\Clase_02.exe
+D:\VisualStudio\Abraldez.Selene\Clase_02\bin\Debug\Clase_02.pdb
+D:\VisualStudio\Abraldez.Selene\Clase_02\obj\Debug\Clase_02.csprojAssemblyReference.cache
+D:\VisualStudio\Abraldez.Selene\Clase_02\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Abraldez.Selene\Clase_02\obj\Debug\Clase_02.exe
+D:\VisualStudio\Abraldez.Selene\Clase_02\obj\Debug\Clase_02.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\bin\Debug\Clase_02.exe.config
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\bin\Debug\Clase_02.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\bin\Debug\Clase_02.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\obj\Debug\Clase_02.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\obj\Debug\Clase_02.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\obj\Debug\Clase_02.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_02 - Ej17\obj\Debug\Clase_02.pdb

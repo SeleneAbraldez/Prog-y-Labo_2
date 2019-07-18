@@ -1,0 +1,9 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\bin\Debug\netstandard2.0\Clase05-Entidades.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\bin\Debug\netstandard2.0\Clase05-Entidades.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\bin\Debug\netstandard2.0\Clase05-Entidades.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase-05 - Enumerados\Clase05-Entidades\obj\Debug\netstandard2.0\Clase05-Entidades.pdb

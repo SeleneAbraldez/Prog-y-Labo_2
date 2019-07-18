@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_11 - Modelo de Parcial\\Abraldez.Selene.2A\\Abraldez.Selene.2A\\Abraldez.Selene.2A.csproj": {}
+  },
+  "projects": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_11 - Modelo de Parcial\\Abraldez.Selene.2A\\Abraldez.Selene.2A\\Abraldez.Selene.2A.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_11 - Modelo de Parcial\\Abraldez.Selene.2A\\Abraldez.Selene.2A\\Abraldez.Selene.2A.csproj",
+        "projectName": "Abraldez.Selene.2A",
+        "projectPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_11 - Modelo de Parcial\\Abraldez.Selene.2A\\Abraldez.Selene.2A\\Abraldez.Selene.2A.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_11 - Modelo de Parcial\\Abraldez.Selene.2A\\Abraldez.Selene.2A\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

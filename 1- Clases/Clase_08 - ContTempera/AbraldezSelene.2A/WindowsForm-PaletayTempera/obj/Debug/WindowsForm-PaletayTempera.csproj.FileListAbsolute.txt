@@ -1,0 +1,15 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm_PaletayTempera.frmPaleta.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm_PaletayTempera.frmTempera.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm_PaletayTempera.Properties.Resources.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.csproj.GenerateResource.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\WindowsForm-PaletayTempera.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\WindowsForm-PaletayTempera.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\WindowsForm-PaletayTempera.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\Clase06.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\Clase06.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\bin\Debug\Clase06.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\WindowsForm-PaletayTempera\obj\Debug\WindowsForm-PaletayTempera.pdb

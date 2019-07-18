@@ -1,0 +1,7 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\bin\Debug\Clase06.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\bin\Debug\Clase06.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\bin\Debug\Clase06.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\obj\Debug\Clase06.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\obj\Debug\Clase06.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\obj\Debug\Clase06.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_06, 07, 08\AbraldezSelene.2A\Clase06\obj\Debug\Clase06.csprojAssemblyReference.cache

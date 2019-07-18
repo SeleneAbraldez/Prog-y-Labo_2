@@ -1,0 +1,8 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\bin\Debug\netstandard2.0\Abraldez.Selene.2A.deps.json
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\bin\Debug\netstandard2.0\Abraldez.Selene.2A.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\bin\Debug\netstandard2.0\Abraldez.Selene.2A.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\obj\Debug\netstandard2.0\Abraldez.Selene.2A.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\obj\Debug\netstandard2.0\Abraldez.Selene.2A.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\obj\Debug\netstandard2.0\Abraldez.Selene.2A.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\obj\Debug\netstandard2.0\Abraldez.Selene.2A.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_11 - Modelo de Parcial\Abraldez.Selene.2A\Abraldez.Selene.2A\obj\Debug\netstandard2.0\Abraldez.Selene.2A.pdb

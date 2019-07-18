@@ -1,0 +1,13 @@
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\bin\Debug\Clase04.windForm.exe.config
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\bin\Debug\Clase04.windForm.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\bin\Debug\Clase04.windForm.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.Properties.Resources.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.csproj.GenerateResource.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.exe
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\bin\Debug\Clase_04.dll
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\bin\Debug\Clase_04.pdb
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.Form1.resources
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo 2 (pen)\Clases\Clase_04\Abraldez.Selene\Clase04.windForm\obj\Debug\Clase04.windForm.csprojAssemblyReference.cache

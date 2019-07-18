@@ -1,0 +1,29 @@
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\bin\Debug\WformClase07.exe.config
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\bin\Debug\WformClase07.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\bin\Debug\WformClase07.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\bin\Debug\Clase06.dll
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\bin\Debug\Clase06.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.frmPaleta.resources
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.Properties.Resources.resources
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.csproj.GenerateResource.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.csproj.CopyComplete
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\WformClase07\obj\Debug\WformClase07.frmTempera.resources
+E:\Clase06\WformClase07\bin\Debug\WformClase07.exe.config
+E:\Clase06\WformClase07\bin\Debug\WformClase07.exe
+E:\Clase06\WformClase07\bin\Debug\WformClase07.pdb
+E:\Clase06\WformClase07\bin\Debug\Clase06.dll
+E:\Clase06\WformClase07\bin\Debug\Clase06.pdb
+E:\Clase06\WformClase07\obj\Debug\WformClase07.csprojAssemblyReference.cache
+E:\Clase06\WformClase07\obj\Debug\WformClase07.frmPaleta.resources
+E:\Clase06\WformClase07\obj\Debug\WformClase07.frmTempera.resources
+E:\Clase06\WformClase07\obj\Debug\WformClase07.Properties.Resources.resources
+E:\Clase06\WformClase07\obj\Debug\WformClase07.csproj.GenerateResource.cache
+E:\Clase06\WformClase07\obj\Debug\WformClase07.csproj.CoreCompileInputs.cache
+E:\Clase06\WformClase07\obj\Debug\WformClase07.csproj.CopyComplete
+E:\Clase06\WformClase07\obj\Debug\WformClase07.exe
+E:\Clase06\WformClase07\obj\Debug\WformClase07.pdb
+E:\Clase06\WformClase07\obj\Debug\WformClase07.frmPrincipal.resources

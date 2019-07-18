@@ -1,0 +1,13 @@
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\bin\Debug\Clase07.exe.config
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\bin\Debug\Clase07.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\bin\Debug\Clase07.pdb
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\bin\Debug\Clase_06_classlibrary.dll
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.csprojAssemblyReference.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.frmPaleta.resources
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.frmTempera.resources
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.Properties.Resources.resources
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.csproj.GenerateResource.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.csproj.CoreCompileInputs.cache
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.csproj.CopyComplete
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.exe
+C:\Users\fvg\Desktop\Visual Studio\ParaEmpezar\Clase06\Clase07\obj\Debug\Clase07.pdb

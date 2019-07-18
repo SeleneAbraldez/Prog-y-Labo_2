@@ -1,0 +1,52 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\selene\\Desktop\\Facultad\\Prog y Labo II\\1-Clases\\Clase_05 - Enumerados\\Clase05-Entidades\\Clase05-Entidades.csproj": {}
+  },
+  "projects": {
+    "D:\\selene\\Desktop\\Facultad\\Prog y Labo II\\1-Clases\\Clase_05 - Enumerados\\Clase05-Entidades\\Clase05-Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\selene\\Desktop\\Facultad\\Prog y Labo II\\1-Clases\\Clase_05 - Enumerados\\Clase05-Entidades\\Clase05-Entidades.csproj",
+        "projectName": "Clase05-Entidades",
+        "projectPath": "D:\\selene\\Desktop\\Facultad\\Prog y Labo II\\1-Clases\\Clase_05 - Enumerados\\Clase05-Entidades\\Clase05-Entidades.csproj",
+        "packagesPath": "C:\\Users\\selene\\.nuget\\packages\\",
+        "outputPath": "D:\\selene\\Desktop\\Facultad\\Prog y Labo II\\1-Clases\\Clase_05 - Enumerados\\Clase05-Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selene\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            }
+          }
+        }
+      }
+    }
+  }
+}
