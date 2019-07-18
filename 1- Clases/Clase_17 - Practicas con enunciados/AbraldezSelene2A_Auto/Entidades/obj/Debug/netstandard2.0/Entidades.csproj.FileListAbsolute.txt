@@ -1,0 +1,17 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Auto\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

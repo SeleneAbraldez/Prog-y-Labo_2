@@ -1,0 +1,11 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\TestSQL.exe.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\TestSQL.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\TestSQL.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\Datos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\bin\Debug\Datos.dll.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\obj\Debug\TestSQL.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\obj\Debug\TestSQL.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\obj\Debug\TestSQL.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\obj\Debug\TestSQL.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\TestSQL\obj\Debug\TestSQL.pdb

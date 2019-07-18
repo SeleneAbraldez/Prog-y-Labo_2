@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\WindowsForms.exe.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\WindowsForms.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\WindowsForms.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\Datos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\bin\Debug\Datos.dll.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.Form1.resources
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.Properties.Resources.resources
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.csproj.GenerateResource.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\WindowsForms\obj\Debug\WindowsForms.pdb

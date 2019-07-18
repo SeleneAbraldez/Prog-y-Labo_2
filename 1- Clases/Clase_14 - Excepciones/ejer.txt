@@ -1,0 +1,17 @@
+Generar una clase estática llamada ParseadoraDeEnteros.
+
+Agregar un método TryParse(string, out int) : bool cuyo funcionamiento sea exactamente igual al de Int32.TryParse.
+Agregar un método Parse(string) : int cuyo funcionamiento sea exactamente igual al de Int32.Parse.
+
+Capturar por separado las excepciones:
+*-FormatException: agregará al mensaje “... por error de formato”.
+*-OverflowException: agregará al mensaje “... por tamaño del dato”
+
+En caso de falla, deberá devolver la excepción ErrorParserException generada por el alumno, con el mensaje 
+“El string no podrá ser convertido”. 
+Utilizar la propiedad InnerException de la clase padre.
+Dentro de ambos métodos, para convertir de String a Entero, utilizar Int32.Parse. Controlar las excepciones dentro de 
+los métodos y luego lanzarlas.
+
+NOTAS:
+El método Parse deberá capturar y lanzar (throw) la excepción capturada.

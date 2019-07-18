@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\testCocina.deps.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\testCocina.runtimeconfig.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\testCocina.runtimeconfig.dev.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\testCocina.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\testCocina.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\bin\Debug\netcoreapp2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_17 -\AbraldezSelene2A_Cocina\testCocina\obj\Debug\netcoreapp2.0\testCocina.pdb

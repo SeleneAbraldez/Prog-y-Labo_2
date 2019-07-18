@@ -1,0 +1,27 @@
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+D:\VisualStudio\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.deps.json
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\bin\Debug\netstandard2.0\Entidades.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfoInputs.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.AssemblyInfo.cs
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_18 -\AbraldezSelene2AClase18\Entidades\obj\Debug\netstandard2.0\Entidades.pdb

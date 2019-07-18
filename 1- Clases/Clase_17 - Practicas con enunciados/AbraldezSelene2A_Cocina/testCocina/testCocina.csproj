@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Entidades">
+      <HintPath>..\Entidades\bin\Debug\netstandard2.0\Entidades.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

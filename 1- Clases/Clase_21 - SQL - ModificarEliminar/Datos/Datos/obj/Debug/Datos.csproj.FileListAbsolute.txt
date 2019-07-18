@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\bin\Debug\Datos.dll.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\bin\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\bin\Debug\Datos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\obj\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_20 - SQL\Datos\Datos\obj\Debug\Datos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\bin\Debug\Datos.dll.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\bin\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\bin\Debug\Datos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\obj\Debug\Datos.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\obj\Debug\Datos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_21 - SQL - ModificarEliminar\Datos\Datos\obj\Debug\Datos.pdb

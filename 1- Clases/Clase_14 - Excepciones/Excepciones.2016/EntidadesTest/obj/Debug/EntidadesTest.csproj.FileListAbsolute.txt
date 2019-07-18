@@ -1,0 +1,26 @@
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojResolveAssemblyReference.cache
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+D:\CSharp\2016\###Segundo Cuatri\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojResolveAssemblyReference.cache
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+C:\Users\profesor.LAB01PROFESOR\Desktop\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe.config
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\bin\Debug\EntidadesTest.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.dll
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\bin\Debug\Entidades.pdb
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.csproj.CopyComplete
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.exe
+D:\selene\Desktop\Facultad\Prog y Labo II\1-Clases\Clase_14 - Excepciones\Excepciones.2016\EntidadesTest\obj\Debug\EntidadesTest.pdb

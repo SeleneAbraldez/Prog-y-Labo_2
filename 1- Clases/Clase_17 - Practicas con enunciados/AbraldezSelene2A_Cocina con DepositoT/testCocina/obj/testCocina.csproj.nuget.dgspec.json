@@ -1,0 +1,59 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_17 -\\AbraldezSelene2A_Cocina con DepositoT\\testCocina\\testCocina.csproj": {}
+  },
+  "projects": {
+    "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_17 -\\AbraldezSelene2A_Cocina con DepositoT\\testCocina\\testCocina.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_17 -\\AbraldezSelene2A_Cocina con DepositoT\\testCocina\\testCocina.csproj",
+        "projectName": "testCocina",
+        "projectPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_17 -\\AbraldezSelene2A_Cocina con DepositoT\\testCocina\\testCocina.csproj",
+        "packagesPath": "C:\\Users\\selene\\.nuget\\packages\\",
+        "outputPath": "E:\\Segundo cuatri\\Prog y Labo II\\1-Clases\\Clase_17 -\\AbraldezSelene2A_Cocina con DepositoT\\testCocina\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\selene\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.0": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[2.0.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
