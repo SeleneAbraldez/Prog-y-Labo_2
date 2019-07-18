@@ -1,0 +1,12 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Test.exe.config
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Test.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Test.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Entidades.Alumnos.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Entidades.Externa.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Entidades.Externa.Sellada.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\bin\Debug\Entidades.Alumnos.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\obj\Debug\Test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\obj\Debug\Test.exe
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\Test\obj\Debug\Test.pdb

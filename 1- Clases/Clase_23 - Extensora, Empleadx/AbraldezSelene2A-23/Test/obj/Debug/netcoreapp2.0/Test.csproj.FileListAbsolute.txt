@@ -1,0 +1,14 @@
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Test.deps.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Test.runtimeconfig.dev.json
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Test.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Test.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Entidades.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\bin\Debug\netcoreapp2.0\Entidades.pdb
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.csprojAssemblyReference.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.csproj.CoreCompileInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfoInputs.cache
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.AssemblyInfo.cs
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.csproj.CopyComplete
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.dll
+E:\Segundo cuatri\Prog y Labo II\1-Clases\Clase_23 -\AbraldezSelene2A-23\Test\obj\Debug\netcoreapp2.0\Test.pdb
