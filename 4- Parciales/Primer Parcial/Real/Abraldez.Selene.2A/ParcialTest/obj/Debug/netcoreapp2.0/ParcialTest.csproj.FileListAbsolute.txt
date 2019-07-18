@@ -1,0 +1,14 @@
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.csprojAssemblyReference.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.csproj.CoreCompileInputs.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.AssemblyInfoInputs.cache
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.AssemblyInfo.cs
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\ParcialTest.deps.json
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\ParcialTest.runtimeconfig.json
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\ParcialTest.runtimeconfig.dev.json
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\ParcialTest.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\ParcialTest.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\Entidades.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\bin\Debug\netcoreapp2.0\Entidades.pdb
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.csproj.CopyComplete
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.dll
+D:\selene\Desktop\Facultad\(2.1) Prog y Labo II\4- Parciales\Primer Parcial\PP\Abraldez.Selene.2A\ParcialTest\obj\Debug\netcoreapp2.0\ParcialTest.pdb
