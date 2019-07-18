@@ -183,11 +183,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\selene\\Desktop\\Facultad\\Save\\Segundo cuatri\\Prog y Labo II\\4- Parciales\\Primer Parcial\\PP-Terminado en casa\\Abraldez.Selene.2A\\Entidades\\Entidades.csproj",
+      "projectUniqueName": "D:\\selene\\Documents\\Gits\\Labo2\\4- Parciales\\Primer Parcial\\Real\\Abraldez.Selene.2A\\Entidades\\Entidades.csproj",
       "projectName": "Entidades",
-      "projectPath": "D:\\selene\\Desktop\\Facultad\\Save\\Segundo cuatri\\Prog y Labo II\\4- Parciales\\Primer Parcial\\PP-Terminado en casa\\Abraldez.Selene.2A\\Entidades\\Entidades.csproj",
+      "projectPath": "D:\\selene\\Documents\\Gits\\Labo2\\4- Parciales\\Primer Parcial\\Real\\Abraldez.Selene.2A\\Entidades\\Entidades.csproj",
       "packagesPath": "C:\\Users\\selene\\.nuget\\packages\\",
-      "outputPath": "D:\\selene\\Desktop\\Facultad\\Save\\Segundo cuatri\\Prog y Labo II\\4- Parciales\\Primer Parcial\\PP-Terminado en casa\\Abraldez.Selene.2A\\Entidades\\obj\\",
+      "outputPath": "D:\\selene\\Documents\\Gits\\Labo2\\4- Parciales\\Primer Parcial\\Real\\Abraldez.Selene.2A\\Entidades\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
